@@ -15,9 +15,14 @@ targeting **scala** and jvm platform
 
 # **git**hub
 
-your friendly neighborhood multi-tenticalled **git** host
+your friendly neighborhood multi-tentacled **git** host
 
 ![gh](hello/gh.jpg)
+
+!SLIDE
+
+# **social** coding
+share the **bugs**
 
 !SLIDE
 
@@ -31,6 +36,7 @@ your friendly neighborhood multi-tenticalled **git** host
 ## who doesn't have an **API**?
 
 !SLIDE
+# **sbt** + **gh issues**
 [github.com/softprops/sbt-gh-issues](https://github.com/softprops/sbt-gh-issues)
 
 ![marriage](hello/mawwiage.jpg)
