@@ -1,0 +1,6 @@
+/* custom styles */
+strong { color:#FC48BA; }
+#instructions { display:none; }
+.content {
+  height:50%;
+}
